@@ -1,0 +1,17 @@
+C:\Endava\EndevLocal\nugets-second-part\bin\Debug\net9.0\nugets-second-part.exe
+C:\Endava\EndevLocal\nugets-second-part\bin\Debug\net9.0\nugets-second-part.deps.json
+C:\Endava\EndevLocal\nugets-second-part\bin\Debug\net9.0\nugets-second-part.runtimeconfig.json
+C:\Endava\EndevLocal\nugets-second-part\bin\Debug\net9.0\nugets-second-part.dll
+C:\Endava\EndevLocal\nugets-second-part\bin\Debug\net9.0\nugets-second-part.pdb
+C:\Endava\EndevLocal\nugets-second-part\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Endava\EndevLocal\nugets-second-part\obj\Debug\net9.0\nugets-second-part.csproj.AssemblyReference.cache
+C:\Endava\EndevLocal\nugets-second-part\obj\Debug\net9.0\nugets-second-part.GeneratedMSBuildEditorConfig.editorconfig
+C:\Endava\EndevLocal\nugets-second-part\obj\Debug\net9.0\nugets-second-part.AssemblyInfoInputs.cache
+C:\Endava\EndevLocal\nugets-second-part\obj\Debug\net9.0\nugets-second-part.AssemblyInfo.cs
+C:\Endava\EndevLocal\nugets-second-part\obj\Debug\net9.0\nugets-second-part.csproj.CoreCompileInputs.cache
+C:\Endava\EndevLocal\nugets-second-part\obj\Debug\net9.0\nugets-s.0BC406D2.Up2Date
+C:\Endava\EndevLocal\nugets-second-part\obj\Debug\net9.0\nugets-second-part.dll
+C:\Endava\EndevLocal\nugets-second-part\obj\Debug\net9.0\refint\nugets-second-part.dll
+C:\Endava\EndevLocal\nugets-second-part\obj\Debug\net9.0\nugets-second-part.pdb
+C:\Endava\EndevLocal\nugets-second-part\obj\Debug\net9.0\nugets-second-part.genruntimeconfig.cache
+C:\Endava\EndevLocal\nugets-second-part\obj\Debug\net9.0\ref\nugets-second-part.dll

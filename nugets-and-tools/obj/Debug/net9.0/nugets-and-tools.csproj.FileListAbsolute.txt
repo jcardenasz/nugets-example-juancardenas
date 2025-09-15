@@ -1,0 +1,17 @@
+C:\Endava\EndevLocal\nugets-and-tools\bin\Debug\net9.0\nugets-and-tools.exe
+C:\Endava\EndevLocal\nugets-and-tools\bin\Debug\net9.0\nugets-and-tools.deps.json
+C:\Endava\EndevLocal\nugets-and-tools\bin\Debug\net9.0\nugets-and-tools.runtimeconfig.json
+C:\Endava\EndevLocal\nugets-and-tools\bin\Debug\net9.0\nugets-and-tools.dll
+C:\Endava\EndevLocal\nugets-and-tools\bin\Debug\net9.0\nugets-and-tools.pdb
+C:\Endava\EndevLocal\nugets-and-tools\obj\Debug\net9.0\nugets-and-tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Endava\EndevLocal\nugets-and-tools\obj\Debug\net9.0\nugets-and-tools.AssemblyInfoInputs.cache
+C:\Endava\EndevLocal\nugets-and-tools\obj\Debug\net9.0\nugets-and-tools.AssemblyInfo.cs
+C:\Endava\EndevLocal\nugets-and-tools\obj\Debug\net9.0\nugets-and-tools.csproj.CoreCompileInputs.cache
+C:\Endava\EndevLocal\nugets-and-tools\obj\Debug\net9.0\nugets-and-tools.dll
+C:\Endava\EndevLocal\nugets-and-tools\obj\Debug\net9.0\refint\nugets-and-tools.dll
+C:\Endava\EndevLocal\nugets-and-tools\obj\Debug\net9.0\nugets-and-tools.pdb
+C:\Endava\EndevLocal\nugets-and-tools\obj\Debug\net9.0\nugets-and-tools.genruntimeconfig.cache
+C:\Endava\EndevLocal\nugets-and-tools\obj\Debug\net9.0\ref\nugets-and-tools.dll
+C:\Endava\EndevLocal\nugets-and-tools\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Endava\EndevLocal\nugets-and-tools\obj\Debug\net9.0\nugets-and-tools.csproj.AssemblyReference.cache
+C:\Endava\EndevLocal\nugets-and-tools\obj\Debug\net9.0\nugets-a.0965CFBC.Up2Date
